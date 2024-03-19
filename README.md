@@ -1,5 +1,3 @@
-Bartosz Szczepaniec
-
 SQL Basics: Simple NULL handling
 
 DESCRIPTION:
